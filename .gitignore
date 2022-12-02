@@ -17,4 +17,5 @@
 .prettierignore
 
 # Avoid uploading not necessary file
-*.md
+README-template.md
+style-guide.md
