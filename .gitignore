@@ -17,5 +17,4 @@
 .prettierignore
 
 # Avoid uploading not necessary file
-/design
 *.md
