@@ -6,7 +6,6 @@
     --neutral-color-1: hsl(212, 21%, 14%);
     --neutral-color-2: hsl(228, 12%, 48%);
     --white:hsl(0, 0%, 100%);
- 
 }
 
 body{
@@ -20,7 +19,6 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
-
 .container{
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -32,14 +30,12 @@ body{
 
 
 /* Left */
-
-
 .img-container{
     background-image: url("./images/image-product-desktop.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-}
+} 
 
 
 /* right */
@@ -62,7 +58,7 @@ h1{
     margin: 1.2rem 0;
 }
 
-.details>p{
+.details > p{
     color: var(--neutral-color-2);
     font-size: 14px;
     line-height: 1.6;
