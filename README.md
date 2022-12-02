@@ -8,9 +8,12 @@ The challenge is to build out the project and get it looking as close to the des
 
 ### Screenshot
 - Desktop design
-![Desktop design for the Product preview card component coding challenge](./images/Screenshot.jpg)
+
+  <img src="./images/Screenshot.jpg" width="500">
+
 - Mobile design
-![Mobile view for the Product preview card component coding challenge](./images/Screenshot-m.jpg)
+
+  <img src="./images/Screenshot-m.jpg" width="300">
 
 ### Links
 
