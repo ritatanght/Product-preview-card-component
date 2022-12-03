@@ -31,11 +31,8 @@ body{
 /* Left / Top */
 
 .img-container{
-    width: 100%;
+    width: 50%;
     height: 450px;
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
 }
 
 img{
@@ -54,7 +51,7 @@ img{
 
 .details{
     padding: 1.8rem;
-    width:100%;
+    width: 50%;
 }
 
 h1{
@@ -135,15 +132,25 @@ button:active{
 
     .container{
         flex-direction: column;
-        max-width: 350px;
+        max-width: 300px;
     }
     
     .img-container{
         height: 60%;
+        width: auto;
     }
     
+    img{
+        max-height: none;
+        height: auto;
+        max-width: 100%;
+    }
+
     .details{
         padding: 1.3rem;
+        display: flex;
+        flex-direction: column;
+        width: auto;
     }
   
 }
